@@ -1,4 +1,3 @@
-# Joanna Douba's Midterm
 ## Text attribution:
 All text has been generated using ChatGPT.
 
