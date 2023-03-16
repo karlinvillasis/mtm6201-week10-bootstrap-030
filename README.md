@@ -1,3 +1,8 @@
+# Joanna Douba's Midterm
+## Text attribution:
+All text has been generated using ChatGPT.
+
+
 # mtm6201-week10-bootstrap-030
 Home page for a media company developed using Bootstrap Framework
 
