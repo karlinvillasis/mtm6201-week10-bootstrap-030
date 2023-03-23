@@ -15,6 +15,7 @@ Home page for a media company developed using Bootstrap Framework
 - [ ] Add decorative images using CSS
 - [ ] Use CDNs to reduce load on a single server
 - [ ] Minify CSS
+
 ## Text attribution:
 All text has been generated using ChatGPT.
 
