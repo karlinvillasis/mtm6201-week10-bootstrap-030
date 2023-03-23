@@ -1,9 +1,24 @@
+# mtm6201-week10-bootstrap-030
+Home page for a media company developed using Bootstrap Framework
+
+## Page Performance Tasks:
+- [x] Use as few images as possible
+- [ ] Optimize images for web
+- [ ] Reduce the image size by using compressed versions or newer image formats like WebP
+- [ ] Resize images to the maximum required size before adding them to the page
+- [ ] Remove any unused HTML and CSS code
+- [ ] Run website through CSS Stats to reduce style duplications
+- [ ] Fix any broken links
+- [ ] Always add CSS in a file and link from the head of the HTML
+- [ ] Include only limited fonts that are used on the page
+- [ ] Embed simple SVGs
+- [ ] Add decorative images using CSS
+- [ ] Use CDNs to reduce load on a single server
+- [ ] Minify CSS
 ## Text attribution:
 All text has been generated using ChatGPT.
 
 
-# mtm6201-week10-bootstrap-030
-Home page for a media company developed using Bootstrap Framework
 
 
 > You are an expert copywriter and editor for websites. Please help me write some text for the a one-pager for a digital media company website for the company "Three Star Media" with the following headings: - Welcome to Three Star Media - About Us - Our Services -- Digital Transformation -- Marketing -- Video Production -- Web Development -- Print - Our Vision - Our Team -- John Doe, CEO and Co-owner -- Bob Rite, CEO and Co-owner
